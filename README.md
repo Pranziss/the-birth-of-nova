@@ -1,5 +1,5 @@
 # Novas-Learning-Progress
-Trying to make my own llm from scratch
+Trying to make my own llm from scratch(sa bh nako mo tiwas ani)
 
 Goal
 - create from scaratch literal
